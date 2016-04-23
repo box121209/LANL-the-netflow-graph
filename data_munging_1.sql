@@ -125,7 +125,7 @@ Port (frequency)
 137 (2562961)	NetBIOS Name Service
 138 (368393)	NetBIOS Datagram Service
 139 (2123849)	NetBIOS Session Service
-161 (181290)	SNMP. Managing devices on IP networks". Devices that
+161 (181290)	SNMP. Managing devices on IP networks. Devices that
     		      	typically support SNMP include routers,
 			switches, servers, workstations, printers,
 			modem racks and more.
