@@ -1,0 +1,1 @@
+load("/Users/wmoxbury/Blog/ec2/201507 mnist/data/mnist_9dim_6000_tSNE_4000.Rds")
